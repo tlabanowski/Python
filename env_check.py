@@ -1,8 +1,8 @@
 # Script Name		: env_check.py
 # Author				: Craig Richards
 # Created				: 14th May 2012
-# Last Modified		: 
-# Version				: 1.0
+# Last Modified		: 2017
+# Version				: 1.1
 
 # Modifications		: 
 
